@@ -37,13 +37,21 @@ The player must guess the correct number within limited attempts based on select
 
 ## 💻 Sample Output
 ===== NUMBER GUESSING GAME =====
+
 Easy (1-50, 10 attempts)
+
 Medium (1-100, 7 attempts)
+
 Hard (1-200, 5 attempts)
+
 Choose difficulty (1/2/3): 1
+
 Guess the number between 1 and 50 Attempt 1/10: 20 Too High! Attempts left: 9
+
 Attempt 2/10: 10 Very Close!
+
 Attempt 3/10: 12 Correct! You guessed in 3 attempts. Your guesses: [20, 10, 12]
+
 Total wins this session: 1 Play again? (yes/no): no Thanks for playing!
 
 ## 📚 Concepts Used
