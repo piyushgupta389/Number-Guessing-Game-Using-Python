@@ -62,13 +62,6 @@ Total wins this session: 1 Play again? (yes/no): no Thanks for playing!
 - Random number generation
 - Input validation
 
-## 🎯 Learning Purpose
-This project helps beginners understand:
-- Python logic building
-- Game development basics
-- User input handling
-- Clean function structure
-
 ## 👨‍💻 Author
 Piyush Gupta  
 Aspiring AI Engineer | Python & C Developer | Open Source Learner 🚀
